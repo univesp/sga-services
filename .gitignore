@@ -1,0 +1,6 @@
+# RubyMine files
+.idea/
+
+# Secrets
+.env
+config/
